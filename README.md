@@ -33,6 +33,7 @@
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101">
 <img alt="electron" src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white">
 </p>
+
 - 🔭 I’m currently working on **League of Legends tournament runner app**
 
 - 🌱 I’m currently learning **Next.js(app directory)**
