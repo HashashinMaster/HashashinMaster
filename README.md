@@ -36,11 +36,9 @@
 
 - 🔭 I’m currently working on **League of Legends tournament runner app**
 
-- 🌱 I’m currently learning **Next.js(app directory)**
+- 🌱 I’m currently learning **THREE.js** and **Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashashinMaster](https://github.com/hashashinMaster)
-
-- 💬 Ask me about **react.js, express**
 
 - 📫 How to reach me **mehdibouzkoura1@gmail.com**
 
