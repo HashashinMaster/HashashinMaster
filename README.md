@@ -40,7 +40,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashashinMaster](https://github.com/hashashinMaster)
 
-- 📫 How to reach me **mehdibouzkoura1@gmail.com**
+- 📫 How to reach me **elmahdibouzkoura@gmail.com**
 
 - ⚡ Fun fact **I don't give up until I reach my goal**
 
