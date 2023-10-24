@@ -24,11 +24,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white">
+   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
+<img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white">
 </p>
 <h3>Additional tools i used on my projects</h3>
 <p>
-<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
-<img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white">
+
 <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101">
 <img alt="electron" src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white">
