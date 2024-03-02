@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hey! Welcome to my profile.</h1>
-<img src="welcome.gif">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=HashashinMaster&screen_effect=true">
 <h3> </br> I'm EL MAHDI. Fullstack  <img width="15" src="https://emojis.slackmojis.com/emojis/images/1657898057/60081/javascript-on-fire.gif?1657898057"> developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Rabat.</b> </h3>
 <h3>Main tools <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="20"/></h3>
 <p>
